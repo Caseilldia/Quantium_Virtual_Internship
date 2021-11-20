@@ -11,6 +11,9 @@ The primary task was to make strategic reccomendations to the category manager f
 The solution to task 1 can be found in Quantium_Task_1.ipynb
 
 
+
+
+
 Task 2 involved QVI_data.xlsb as a data source.
 
 The primary task was to to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.
@@ -22,6 +25,9 @@ Considering the monthly sales experience of each store. We needed to analyze
 3. average number of transactions per customer
 
 We want to test if total sales are significantly different in the trial period and if so, check if the driver of change is more purchasing customers or more purchases per customers etc.
+
+
+
 
 
 Task 3 was to make a report in the form of a presentation to our client
